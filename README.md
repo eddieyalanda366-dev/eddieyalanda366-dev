@@ -1,16 +1,17 @@
-## Hi there 👋
+## proyecto ADSO githup
 
-<!--
-**eddieyalanda366-dev/eddieyalanda366-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+aprendiz analisis y desarrollo de software
 
-Here are some ideas to get you started:
+## proyecto en desarrollo   
+| Proyecto | Estado | 
+|----------|--------|
+|Sena-AgroFit | en desarrollo |
+| Programacion Aprendiz | en produccion |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+
+<summary>Aprendiz Adso</summary>
+
+Ficha 3387753
+
+</details>
